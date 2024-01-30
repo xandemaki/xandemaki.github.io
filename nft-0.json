@@ -1,18 +1,14 @@
 {
-  "description": "Olhar 0043", 
-  "external_url": "https://www.letras.mus.br/rpm/46845/", 
-  "image": "https://images.unsplash.com/photo-1699357170661-f05ad254f4f4?q=80&w=1956&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
-  "name": "Olhar 0043",
+  "description": "Melancia", 
+  "external_url": "https://pt.wikipedia.org/wiki/Melancia", 
+  "image": "https://images.unsplash.com/photo-1589984662646-e7b2e4962f18?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+  "name": "Melancia",
   "attributes": [{
-      "trait_type": "olhos", 
+      "trait_type": "fruta", 
       "value": "sim"
     }, 
     {
-      "trait_type": "homem", 
+      "trait_type": "vegetal", 
       "value": "não"
-    }, 
-    {
-      "trait_type": "mulher", 
-      "value": "sim"
     }]
 }
